@@ -5,3 +5,4 @@
 - [信息安全书单](https://github.com/xytywh/secbook)
 
 - [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
+- [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper#driller-argumenting-fuzzing-through-selective-symbolic-execution-ndss-2016)

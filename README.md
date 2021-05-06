@@ -8,9 +8,12 @@
 
 - [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper#driller-argumenting-fuzzing-through-selective-symbolic-execution-ndss-2016)
-- 
+ 
 ### Symbolic execution
+- [angr](https://github.com/angr/angr)
 
+### Fuzzing + Symbolic execution
+- [driller](https://github.com/shellphish/driller)
 
 
 

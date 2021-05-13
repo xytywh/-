@@ -11,6 +11,7 @@
  
 ### Symbolic execution
 - [angr](https://github.com/angr/angr)
+- [symqemu](https://github.com/eurecom-s3/symqemu)
 
 ### Fuzzing + Symbolic execution
 - [driller](https://github.com/shellphish/driller)

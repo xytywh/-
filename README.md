@@ -15,10 +15,12 @@
 - [AFLGO](https://github.com/aflgo/aflgo)
 
 ### Symbolic execution
+#### Tools
 - [angr](https://github.com/angr/angr)
 - [symqemu](https://github.com/eurecom-s3/symqemu)
 
 ### Fuzzing + Symbolic execution
+#### Tools
 - [driller](https://github.com/shellphish/driller)
 
 ### static analysis

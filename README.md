@@ -6,10 +6,14 @@
 
 ### Fuzzing
 
+#### Paper
 - [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [FuzzingPaper](https://github.com/wcventure/FuzzingPaper#driller-argumenting-fuzzing-through-selective-symbolic-execution-ndss-2016)
 - [awesome-directed-fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing)
- 
+#### Tools
+- [AFL](https://github.com/google/AFL)
+- [AFLGO](https://github.com/aflgo/aflgo)
+
 ### Symbolic execution
 - [angr](https://github.com/angr/angr)
 - [symqemu](https://github.com/eurecom-s3/symqemu)

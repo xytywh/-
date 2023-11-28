@@ -27,6 +27,9 @@
 
 ### static analysis
 - [南大软件分析课程](https://github.com/RangerNJU/Static-Program-Analysis-Book)
+- 抽象解释
+  [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector)
+  [ikos](https://github.com/NASA-SW-VnV/ikos)
 
 
 
